@@ -46,5 +46,3 @@ Se vc deseja clonar este projeto é importante saber que alguns arquivos precisa
 <div align="center">
 <img src="/src/assets/Saude-App.gif" width="270" height="555">
 </div>
-
-    - ic_launcher_round.
