@@ -1,5 +1,4 @@
 # Aplicativo Saúde
-## (Atualizado) - 22/05/2023
 ### Este projeto é aplicativo genérico para planos de saúde, permite enviar informações de um cartão virtual por NFC e recebe notificações personalizadas!
 
 <p align="center">
@@ -48,14 +47,4 @@ Se vc deseja clonar este projeto é importante saber que alguns arquivos precisa
 <img src="/src/assets/Saude-App.gif" width="270" height="555">
 </div>
 
-## Melhorias?
-- [ ] Responder as mensagens sem abrir o aplicativo;
-- [ ] Adicionar o Storage do FB para enviar imagens e documentos;
-- [ ] Informar ao usuário que todos os campos precisam ser preenchidos na primeira alteração dos dados;
-- [ ] Fatorar o código, substituindo alguns arquivos ou screens por componentes:
-    - fileUpload;
-    - JanelaPerfil;
-    - OpenCamera;
-    - GetFetureView;
-    - Virtualized;
     - ic_launcher_round.
