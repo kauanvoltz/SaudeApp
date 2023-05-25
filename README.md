@@ -7,7 +7,7 @@
   <a href="#-layout">Layout</a>
 </p>
 
-Foi criado um website para o [Saúde Web](https://saude-web.vercel.app/), onde podemos enviar mensagens para o celular!
+Foi criado um website para o saude web, onde podemos enviar mensagens para o celular!
 O projeto explicado está acessível em: https://github.com/kauanvoltz/SaudeWeb
 
 
